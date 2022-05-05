@@ -1,4 +1,6 @@
 import java.util.*;
+import deeplearning4jUiAssets.*;
+import org.deeplearning4j.*;
 
 /**
  * Auto-generated code below aims at helping you parse
